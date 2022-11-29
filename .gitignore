@@ -1,0 +1,9 @@
+gen/
+dist/
+.angular/
+node_modules/
+
+!/pkg/gen
+*-packr.go
+!pkg/webserver/**/*-packr.go
+resource.syso
